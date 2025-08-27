@@ -2,11 +2,11 @@
     background-color: #EAEAEA;
 }
 .index-foto1 {
-    background-image: url(../img/auto.jpg);
+    background-image: url(../img/autorojo.png);
     background-size: cover;
 }
 .index-foto2 {
-    background-image: url(../img/ajustadas/velocidad.png);
+    background-image: url(../img/velocidad.png);
     background-size: cover;
 }
 .text-blanco {
@@ -15,9 +15,6 @@
 }
 .bg-opacidad {
     background-color: rgba(164,162,162,0.65);
-}
-
-.divider {
 }
 .bg-carrusel {
     background-color: rgba(90,89,89,0.50);
@@ -29,8 +26,23 @@
 
 }
 .bg-carro {
-    background-image: url(../img/ajustadas/verde.png);
+    background-image: url(../img/verde.png);
 }
 .bg-oscuro {
     background-color: rgba(0,0,0,0.56);
+}
+
+.bg-imagen {
+    background-image: url(../img/carro.png);
+    width: 0;
+    min-width: 391px;
+    height: 0;
+}
+.index-foto3 {
+    background-image: url(../img/mecanica.png);
+    background-size: cover;
+}
+.index-foto4 {
+    background-image: url(../img/trabajo.png);
+    background-size: cover;
 }

@@ -1,15 +1,1 @@
 @charset "UTF-8";
-.bg-imagen {
-    background-image: url(../img/ajustadas/carro.png);
-    width: 0;
-    min-width: 391px;
-    height: 0;
-}
-.index-foto3 {
-    background-image: url(../img/ingenieria.jpg);
-    background-size: cover;
-}
-.index-foto4 {
-    background-image: url(../img/equipo.jpg);
-    background-size: cover;
-}
