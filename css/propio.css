@@ -1,0 +1,36 @@
+.bg-blanco {
+    background-color: #EAEAEA;
+}
+.index-foto1 {
+    background-image: url(../img/auto.jpg);
+    background-size: cover;
+}
+.index-foto2 {
+    background-image: url(../img/ajustadas/velocidad.png);
+    background-size: cover;
+}
+.text-blanco {
+    color: #FFFFFF;
+	font-family: "Roboto", sans-serif;
+}
+.bg-opacidad {
+    background-color: rgba(164,162,162,0.65);
+}
+
+.divider {
+}
+.bg-carrusel {
+    background-color: rgba(90,89,89,0.50);
+}
+
+.font {
+    font-family: "Merriweather Sans", sans-serif;
+    font-style: normal;
+
+}
+.bg-carro {
+    background-image: url(../img/ajustadas/verde.png);
+}
+.bg-oscuro {
+    background-color: rgba(0,0,0,0.56);
+}
